@@ -1,0 +1,9 @@
+.converstion-box{
+    overflow-y: scroll;
+    min-height: 76.5%;
+    max-height: 76.5%;
+    width: 69.8%;
+    position: absolute;  
+    list-style-type: none;
+    padding-left: 0%;
+}

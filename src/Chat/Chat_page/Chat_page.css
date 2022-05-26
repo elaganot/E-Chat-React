@@ -1,0 +1,63 @@
+
+.chatPage-background-container {
+    background-image: url(/public/background.gif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    position: relative;
+    
+   }
+
+.chat-page{
+    min-width: 800px;
+    ;
+    width: 80%;
+    min-width: 400px;
+    height:80vh;
+    position: absolute;
+    background-color: rgb(246, 247, 244);
+    border-radius: 5%;
+    padding: 5px;
+    /* min-width: 80%; */
+    min-height: 80vh;
+    
+    
+}
+
+th.left-side{
+    width: 30%;
+    height: 100%;
+    min-width: 230px;
+    min-height: 100%;
+}
+
+th.right-side{
+    width: 70%;
+    height: 100%;   
+    background-image: url('/public/defult_screen.gif');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+    /* min-width: 70%;
+    min-height: 100%; */
+
+
+}
+
+/* table{
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+} */
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: #F5F5F5;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #b6b6b6;
+}

@@ -1,0 +1,13 @@
+table.left-side{
+    height: 100%;
+    width: 100%;
+}
+tr.user-info{
+    height: 13%;
+    width: 100%;
+}
+tr.contacts-list{
+    height: 87%;
+    width: 100%;
+}
+

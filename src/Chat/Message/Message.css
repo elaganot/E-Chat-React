@@ -1,0 +1,34 @@
+.chat-message{
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    background-color: pink;
+    margin-bottom: 30px;
+    float:right !important;
+    word-break: break-word
+   
+ 
+}
+.friend-message{
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    background-color: lightblue;
+    margin-bottom: 30px;
+}
+.chat-time{
+    margin-left: 10px;
+    font-size: xx-small;
+    text-align: right;
+}
+.converstion-box{
+    overflow-y: scroll;   
+    min-height: 76.5%;
+    max-height: 76.5%;
+    width: 69.8%;
+    position: absolute;  
+    list-style-type: none;
+    padding-left: 0%;
+}

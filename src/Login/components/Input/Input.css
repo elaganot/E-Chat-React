@@ -1,0 +1,32 @@
+.input-contanier{
+    width: 100px;
+}
+.regular-style{
+    width: 100px;
+    height: 35px;
+    border-radius: 50px;
+    border: none;
+    border: 0px 10px 0px 20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    color:white;
+    font-size: 14px;
+    outline: none;
+   
+}
+.regular-style ::placeholder{
+    font-size: 14px;
+    color: gray;
+    opacity: 0.8;
+    
+}
+.input-error{
+    border: 1px solid red;
+    color:red;
+    background: purple;
+
+}
+:input-error::placeholder{
+    color: red;
+    font-size: 14px;
+}

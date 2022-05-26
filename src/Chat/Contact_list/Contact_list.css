@@ -1,0 +1,11 @@
+div.contact-list {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    min-width: 230px;
+    max-height: 75%;
+    width: 28%;
+    position: absolute;
+    list-style-type: none;
+    padding-left: 0%;
+
+}

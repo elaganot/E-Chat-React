@@ -1,0 +1,21 @@
+table.right-side{
+    width: 100%;
+    height: 100%;
+   position: relative;
+}
+.contact-info{
+    background-color: rgb(246, 247, 244);
+    width: 100%;
+    height: 13%;
+}
+.conversation-box{
+    width: 100%;
+    height:100%;
+    background-image: url("./ChatBackground.jpg");
+}
+
+.text-box{
+    background-color: rgb(246, 247, 244);
+    width: 100%;
+    height:10%;
+}
