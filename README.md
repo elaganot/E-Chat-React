@@ -2,7 +2,7 @@ E-chat by eden & ela
 
 This project is a WhatsApp Web clone (but better). we used React to build the client-side and asp.net to build the server-side.
 we used the react-router library and the signalR library.
-For the server-side please go to https://github.com/elaganot/Advanced-Programming-2-ex2.git.
+For the server-side please go to https://github.com/elaganot/Advanced-Programming-2-ex2.git (notice that the right files are in the master branch).
 
 To run the project please create a new React app, delete all the files except the node_modules directory,
 and download all the files to your directory (that already has the node_modules).
